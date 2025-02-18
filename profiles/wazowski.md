@@ -1,0 +1,1 @@
+Hi my name is Mike Wazowski and another class I am taking this semester is Computer Graphics.
