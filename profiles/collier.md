@@ -1,0 +1,1 @@
+Hi, my name is Jacob Collier and another class I'm taking this semester is Cosmopolitanism and Nationalism.
