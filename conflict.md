@@ -1,3 +1,3 @@
 There should be a merge conflict on the following line.
 
-conflict1
+conflict2
